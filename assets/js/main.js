@@ -4,6 +4,7 @@
 	License: pixelarity.com/license
 */
 
+
 (function($) {
 
 	var	$window = $(window),
@@ -55,6 +56,8 @@
 			hideDelay: 350,
 			baseZIndex: 100000
 		});
+
+
 
 	// Menu.
 		$('<a href="#navPanel" class="navPanelToggle"><span>Menu</span></a>')
