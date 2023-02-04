@@ -24,7 +24,8 @@ section, summary, time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
+	font-size: 100%;<p> Visit us today and experience the difference of quality and personalized service. Our goal is to get you back on the road safely and efficiently, so you can continue to enjoy your car for years to come.
+	</p>
 	font: inherit;
 	vertical-align: baseline;}
 
@@ -2491,7 +2492,7 @@ input, select, textarea {
 	}
 
 		.image:after {
-			background: linear-gradient(45deg, #d54857 20%, #2eaeff 100%);
+			background: <!--linear-gradient(45deg, #d54857 20%, #2eaeff 100%);
 			content: '';
 			height: 100%;
 			left: 0;
