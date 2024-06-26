@@ -342,6 +342,27 @@ input, select, textarea {
 
 		}
 
+/* Reviews */
+.rating-container {
+    font-size: 36px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+    line-height: 1; /* Ensure no extra vertical spacing */
+}
+
+.star {
+    margin: 0 5px;
+}
+
+.star:hover,
+.star.active {
+    color: gold;
+}
+
 /* Row */
 
 	.row {
